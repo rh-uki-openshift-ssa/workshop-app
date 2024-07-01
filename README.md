@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo contains a Quarkus app for use in the Red Hat UK Student BootCamp engagements.
+This repo contains a Quarkus app for use in Red Hat Workshops.
 
 The App is buildable using the JAVA 17 UBI S2I Builder (available by default from the Add+ in the OCP Dev Ux.
 
